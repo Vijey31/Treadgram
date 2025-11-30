@@ -1,0 +1,73 @@
+Build a modern, responsive website for a health-tech startup called TREADGRAM.
+Brand & Style:
+– Theme: futuristic healthcare + sports performance
+– Colors: deep navy / dark background with accents of electric blue and signal red; lots of white space for readability
+– Style: clean, minimal, slightly techy (card-based layout, smooth micro-animations, iconography for features)
+– Fonts: bold, modern heading font and a clean sans-serif for body text
+– Make it look like a serious B2B health-tech company, but with an energetic fitness vibe.
+Global Layout:
+– Sticky top navbar with logo “TREADGRAM” (text logo is fine) and menu: Home, RCM AI, SmartBiomarkers, FusionClinic, SmartHospital, Vision, About Us, Contact.
+– Clear call-to-action buttons like “Book a Demo” and “Talk to Us”.
+– Use illustrations/icons for healthcare, AI, ECG, wearables, hospital, gym, analytics dashboards etc.
+Home Page
+– Hero section: bold headline like “AI-Powered Cardiovascular & Revenue Intelligence” with a short subtext. Show two main buttons: “Explore Solutions” and “Partner With Us”.
+– Below hero, add three or four feature cards that link to the main verticals: RCM AI, SmartBiomarkers, FusionClinic, SmartHospital. Each card should have a small icon and 2–3 lines of text.
+– Section “Why TREADGRAM”: 3–4 bullets explaining that TREADGRAM sits at the intersection of cardiology, fitness, diagnostics, and hospital revenue optimization.
+– Add a simple timeline / steps graphic of “Data → AI Models → Insights → Action in Clinics & Hospitals & Gyms”.
+Page 1: RCM AI
+Title: “RCM AI – Intelligent Revenue Cycle Automation”
+– Short intro paragraph: explain that this page is about AI models for enhancing hospital and clinic RCM workflows.
+– Subsections with cards for different AI capabilities (you can use placeholder text):
+Smart Denial Management – AI models that predict claim denials, suggest corrections, and prioritize high-impact cases.
+Coding & Documentation Intelligence – models that analyze visit notes, diagnosis and procedure codes to reduce leakage and improve accuracy.
+Cash Flow & AR Prediction – forecasting models for collections, AR days, and revenue risk.
+Doctor-Friendly Dashboards – simple, visual analytics that summarize financial performance without overwhelming clinicians.
+– Include a call-to-action band: “Integrate RCM AI into your HIS / billing system – Book a Demo”.
+Page 2: SmartBiomarkers
+Title: “SmartBiomarkers – Turning Wearables into Clinical Signals”
+– Intro text: TREADGRAM builds algorithms to harness biomarkers such as ECG, SpO₂, heart rate, blood pressure, and activity data through wearables and continuous monitoring.
+– Create sections or cards:
+ECG & Arrhythmia Flags – algorithms that analyze ECG waveforms from devices and trigger early alerts.
+SpO₂ & Respiratory Stress Monitoring – continuous oxygen saturation and breathing pattern insights.
+Blood Pressure & Vascular Load Trends – longitudinal tracking and risk pattern discovery.
+Activity & Recovery Analytics – step count, heart-rate recovery, HRV and training load metrics.
+– Add a simple schematic graphic / layout that shows “Wearable Devices → Data Stream → AI Engine → Clinician & User Dashboards”.
+– End with a line about integrating with gyms, clinics, and health platforms.
+Page 3: FusionClinic
+Title: “FusionClinic – The Gym-Based Cardiovascular Screening Clinic”
+– Explain that FusionClinic is a gym-integrated clinic model where people can do treadmill tests, CPET, and screening while they train.
+– Sections:
+Cardio-Fitness Screening Zone – treadmill / ergometer + ECG, heart rate, and other metrics.
+AI Risk Stratification – models that classify low / moderate / high CV risk and recommend next steps.
+Performance + Health Reports – easy-to-read PDF and app-based reports combining fitness and medical markers.
+For Coaches & Doctors – a shared dashboard for trainers, physiotherapists, and cardiologists.
+– Add a visual “A day at FusionClinic” flow: Check-in → Test → AI Report → Counselling → Follow-up.
+Page 4: SmartHospital
+Title: “SmartHospital – OPD Efficiency AI Agent”
+– Describe that this page is about an AI agent that makes OPD (out-patient department) more efficient.
+– Subsections:
+OPD Flow Optimization – AI suggestions for scheduling, slot allocation, and patient wait-time reduction.
+Triage & Pre-Visit Questionnaires – digital intake forms that pre-structure data for doctors.
+Clinical Note Assistance – summarizing visits, suggesting codes, and structuring data for HIS/EMR.
+Real-Time OPD Analytics – dashboards showing load, bottlenecks, and patient feedback.
+– Include a mock “OPD AI Agent” chat widget concept in the UI (non-functional) with sample messages like “Today’s OPD load is high between 10–12 AM; consider adding extra slots.”
+Page 5: Vision
+Title: “Our Vision”
+– Vision statement: TREADGRAM aims to build the world’s most intelligent cardiovascular and operational health layer across hospitals, gyms, and digital health platforms.
+– Add 3 pillars:
+Prevent Before Treat – move from late-stage disease management to early detection.
+Make Advanced Diagnostics Everyday – bring treadmill tests, biomarkers, and AI into daily life.
+Operational Excellence in Care – ensure hospitals and clinics are financially healthy and efficient.
+– Include a short “5-Year Horizon” section with bullets for global partnerships, research collaborations, and real-world impact.
+Page 6: About Us
+Title: “About TREADGRAM”
+– Add a short story: TREADGRAM was born at the intersection of biomedical engineering, cardiology, and data science, focused on turning treadmill tests and biomarker data into actionable intelligence.
+– Add subsections for:
+Who We Work With – hospitals, diagnostic centers, gyms, health coaches, and digital health platforms.
+What Drives Us – curiosity, scientific rigor, and making high-end diagnostics accessible for people in developing as well as developed regions.
+Research & Innovation – mention ongoing R&D in cardiovascular risk scoring, CPET analytics, and RCM optimization (use placeholder text).
+– Add a small “Founding Team” section with placeholder cards (Name, Role, Short bio).
+Contact Section
+– On either the Home page footer or a separate Contact section, add a simple contact form (Name, Email, Organization, Message) and placeholder text for email and location.
+– Add social media icons placeholders (LinkedIn, X / Twitter, YouTube).
+Make everything fully responsive, with smooth scrolling between sections and clear CTAs guiding users to book demos or contact TREADGRAM. Use sample / placeholder text where needed but keep the tone professional, health-tech oriented, and innovation-focused.
